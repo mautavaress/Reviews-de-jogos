@@ -71,7 +71,7 @@ Além disso, desbloqueei `1718` conquistas ao longo de 2025, em todas as platafo
 4. [**Sonic The Hedgehog: Spinball**](https://www.rankone.global/mautavaress/played/16036) (Mega Drive / Genesis) - `4,5`
 5. [**AKIRA**](https://www.rankone.global/mautavaress/played/2340) (NES / Famicom) - `5,5`
 
-6. # Jogos mais surpreendentes
+# Jogos mais surpreendentes
 
 1. [**Little Nightmares**](https://www.rankone.global/mautavaress/played/9174) (Xbox One) 
 2. [**Grand Theft Auto: Vice City Stories**](https://www.rankone.global/mautavaress/played/3262) (PlayStation 2)
@@ -88,14 +88,47 @@ Além disso, desbloqueei `1718` conquistas ao longo de 2025, em todas as platafo
 5. [**Kyōryū Sentai Zyuranger**](https://www.rankone.global/mautavaress/played/48437) (NES / Famicom)
 
 # Tier Lists
+## Progresso de jogos jogados
+[![tier-list-20251230-15-22-51.png](https://i.postimg.cc/hGJvNVNr/tier-list-20251230-12-41-09.png)](https://postimg.cc/zHnLnYmy)
+
+## Minhas recomendações
+[![tier-list-20251230-14-20-20.png](https://i.postimg.cc/TPh5Gz5B/tier-list-20251230-14-20-20.png)](https://postimg.cc/LqK830TV)
+
+## Jogos que eu quero jogar
+[![tier-list-20251230-12-41-09.png](https://i.postimg.cc/vTKWwG3t/tier-list-20251230-15-22-51.png)](https://postimg.cc/SXhmMYS2)
 
 # Outras coisas
 
 ## [#MyYearOnXbox](https://www.trueachievements.com/MyYearOnXbox/978936)
 <img src="https://images-ext-1.discordapp.net/external/iiwXdzIas78ETEBGl0p0NH9Es0smETrXRfnrtdGZMv4/https/imager.trueachievements.com/annualhighlights/978936/2025?format=webp&amp;width=980&amp;height=512" alt="MauTavaresS&#39; #MyYearOnXbox"/>
 
+## Recap do RetroAchievements
+<img src="https://media.discordapp.net/attachments/1450131550761910282/1456302821329731616/image0.jpg?ex=698603b1&amp;is=6984b231&amp;hm=98f60d0a592b2c093a3e3d123717be3b58dda071df1712ce372324b5f3cc8496&amp;=&amp;format=webp&amp;width=344&amp;height=616" alt="Imagem"/>
+
 ## Twitch recap
 ### Streamer
 <img src="https://images-ext-1.discordapp.net/external/GWKzcarMUSqeTGxrUS_77tjpcBohAl3jMtAJB5ia2Q4/https/i.imgur.com/7ud3GIZ.png?format=webp&amp;quality=lossless&amp;width=493&amp;height=616" alt="Imagem"/>
+
 ### Viewer
+
 <img src="https://images-ext-1.discordapp.net/external/aQAh2aNu3Kn3htKuk2IUxPfCd_XOpCQyIESXNuEgHyc/https/i.imgur.com/jlqFYAl.png?format=webp&amp;quality=lossless&amp;width=493&amp;height=616" alt="Imagem"/>
+
+# Agradecimentos especiais aos que pediram jogos para a Playlist Gamer ao longo do ano!
+- [Fisher](https://twitch.tv/fisher_santiago)
+- Ito
+- [Kaká](https://twitch.tv/fiorine_elgato)
+- [Mats](https://twitch.tv/matsmz)
+- [Saramago](https://twitch.tv/osaramago)
+- Peidinho
+
+## Menções honrosas também aos que fizeram a diferença no canal (além dos citados acima)
+- [Badiiin](https://twitch.tv/badiiin)
+- [Branks](https://twitch.tv/branks_)
+- Domoru
+- [Fagner](https://twitch.tv/sol_fatguy)
+- [Maki](https://twitch.tv/ishidamaki)
+- [Orochi](https://twitch.tv/sonicorochi)
+- [Paulin](https://twitch.tv/paulodmmorais)
+- [Rubão](https://twitch.tv/rubaod_xplay)
+- [Thi](https://twitch.tv/galaxiadathi)
+- [Zigg](https://twitch.tv/ziggudin)
