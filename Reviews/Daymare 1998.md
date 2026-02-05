@@ -8,8 +8,6 @@ Um motivo que me fez comprar esse jogo foi o fato de que os devs eram fãs de "R
 
 ... em todos os sentidos.
 
-PS: Postei imagens nesta review sob forma de links. Recomendo que ABRA O LINK EM NOVA ABA para evitar sair desta página.
-
 # Copia, mas não faz igual
 
 Se você já jogou algum jogo da trilogia clássica de "Resident Evil", vai perceber algumas semelhanças na história do jogo, se comparado com a lore de "RE", como o fato de uma empresa patrocinar uma cidade, cuja população vira zumbi depois de uma catástrofe (vide clipe [aqui](https://clips.twitch.tv/FairWildMartenBuddhaBar-hA8H7QiAfm-jtMzY?tt_content=channel_name&tt_medium=embed)). Além disso, o jogo possui algumas referências que remetem os clássicos de "Resident Evil", como o letreiro da livraria e o desenho no chão. No entanto, a história de "Daymare: 1998" possui alguns elementos que a afastam do estereótipo de "cópia de 'RE'" e introduz personagens com narrativas únicas, como o guarda florestal que precisa tomar remédios para não sofrer alucinações (poderia servir como uma forma para discutir questões da esquizofrenia, talvez), ou mesmo o narrador que mostra o seu verdadeiro objetivo nessa trama quando você zera o jogo (sim, a verdade você só descobre zerando o jogo).
