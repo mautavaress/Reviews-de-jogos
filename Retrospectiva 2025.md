@@ -86,3 +86,16 @@ Além disso, desbloqueei `1718` conquistas ao longo de 2025, em todas as platafo
 3. [**Midnight Club: Street Racing**](https://www.rankone.global/mautavaress/played/6509) (PlayStation 2) 
 4. [**Train Sim World 5**](https://www.rankone.global/mautavaress/played/314215) (Xbox Series) 
 5. [**Kyōryū Sentai Zyuranger**](https://www.rankone.global/mautavaress/played/48437) (NES / Famicom)
+
+# Tier Lists
+
+# Outras coisas
+
+## [#MyYearOnXbox](https://www.trueachievements.com/MyYearOnXbox/978936)
+<img src="https://images-ext-1.discordapp.net/external/iiwXdzIas78ETEBGl0p0NH9Es0smETrXRfnrtdGZMv4/https/imager.trueachievements.com/annualhighlights/978936/2025?format=webp&amp;width=980&amp;height=512" alt="MauTavaresS&#39; #MyYearOnXbox"/><img width="979" height="512" alt="image" src="https://github.com/user-attachments/assets/e7b89ee9-4bf8-4d1c-8b20-2c7f57ee3c16" />
+
+## Twitch recap
+### Streamer
+<img src="https://images-ext-1.discordapp.net/external/GWKzcarMUSqeTGxrUS_77tjpcBohAl3jMtAJB5ia2Q4/https/i.imgur.com/7ud3GIZ.png?format=webp&amp;quality=lossless&amp;width=493&amp;height=616" alt="Imagem"/><img width="492" height="616" alt="image" src="https://github.com/user-attachments/assets/c3d9c4c3-089a-422d-b32a-207b4e1d8b69" />
+### Viewer
+<img src="https://images-ext-1.discordapp.net/external/aQAh2aNu3Kn3htKuk2IUxPfCd_XOpCQyIESXNuEgHyc/https/i.imgur.com/jlqFYAl.png?format=webp&amp;quality=lossless&amp;width=493&amp;height=616" alt="Imagem"/><img width="492" height="616" alt="image" src="https://github.com/user-attachments/assets/655d4ed9-1075-4393-8d76-ec55f0316b49" />
