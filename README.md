@@ -21,4 +21,4 @@ Uma ou mais lives do jogo que for pedido para review será agendada e informada 
 
 Ao longo dessa(s) live(s), serão feitos clipes e capturas de tela, que serão utilizadas para descrever na review os aspectos do jogo. Um exemplo está na [review que fiz de "Daymare: 1998"](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Daymare%201998.md).
 
-Uma vez que o jogo for zerado OU que tivermos provas suficientes, a review será publicada neste [repo](https://github.com/mautavaress/Reviews-de-jogos/tree/main/Reviews), com imagens, nota (em estrelas), pontos positivos e negativos, texto bem elaborado e crédito a quem pediu para jogar (como uma forma de agradecimento).
+Uma vez que o jogo for zerado OU que tivermos provas suficientes, a review será publicada neste [repo](https://github.com/mautavaress/Reviews-de-jogos/tree/main/Reviews), com imagens, nota (em escala de 0,5 a 5,0 estrelas), pontos positivos e negativos, texto bem elaborado e crédito a quem pediu para jogar (como uma forma de agradecimento).
