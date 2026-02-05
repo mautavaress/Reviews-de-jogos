@@ -11,4 +11,5 @@ As lista de plataformas pode ser acessada por este [link](https://github.com/mau
 1. Não sejam jogos como serviço;
 2. Não estejam programados para deixar o catálogo dos serviços mencionados.
 3. Estejam disponíveis para jogar em território nacional (alguns jogos do Game Pass só estão disponíveis em algumas regiões).
+
 Também estou aceitando keys para jogos do Xbox.
