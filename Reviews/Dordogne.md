@@ -1,3 +1,5 @@
+<img width="570" height="491" alt="image" src="https://github.com/user-attachments/assets/f95cf206-c52d-406b-8a73-97b6410f8b37" />
+
 # Uma história em forma de aquarela
 
 Já joguei no passado alguns jogos que me emocionaram e causaram um impacto. Dordogne não é diferente. Sua história, sua arte e sua exploração me impressionaram para um jogo indie, assim como foi em “GRIS” e “Genesis Noir”. Mas Dordogne me intrigou com um drama que envolve família, sentimentos bons e ruins e senso de aventura, embora o jogo seja linear. Nos próximos parágrafos, você vai descobrir algumas coisas interessantes que esta “obra de arte” em forma de jogo pode proporcionar.
