@@ -1,12 +1,12 @@
 # Regras para pedir jogo para review
 Se você quer que eu jogue um jogo e faça uma análise detalhada, profunda, você está no caminho certo!
 
-# Como pedir um jogo para review
+## Como pedir um jogo para review
 1. Acesse o chat da [Twitch](https://twitch.tv/mautavaress/chat) ;
 2. Resgate a recompensa "Review de um jogo"
 3. No campo da mensagem, escreva o nome do jogo e da plataforma.
 
-# Plataformas disponíveis
+## Plataformas disponíveis
 As lista de plataformas pode ser acessada por este [link](https://github.com/mautavaress/Playlist-Gamer?tab=readme-ov-file#plataformas-dispon%C3%ADveis-e-tempo-de-gameplay) (ignore a coluna "Tempo de jogo").
 
 Também estou aceitando, em caráter temporário, pedidos de jogos que estejam no Xbox Game Pass ([Essential](https://www.trueachievements.com/game-pass-core/games), [Premium](https://www.trueachievements.com/game-pass-standard/games) ou [Ultimate](https://www.trueachievements.com/game-pass-ultimate/games)), EA Play ou [Ubisoft+ Classics](https://www.trueachievements.com/ubisoft-plus-classics/games), desde que:
