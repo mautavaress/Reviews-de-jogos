@@ -107,11 +107,10 @@ Além disso, desbloqueei `1718` conquistas ao longo de 2025, em todas as platafo
 
 ## Twitch recap
 ### Streamer
-<img src="https://images-ext-1.discordapp.net/external/GWKzcarMUSqeTGxrUS_77tjpcBohAl3jMtAJB5ia2Q4/https/i.imgur.com/7ud3GIZ.png?format=webp&amp;quality=lossless&amp;width=493&amp;height=616" alt="Imagem"/>
+[![twitch-recap-2025-2.png](https://i.postimg.cc/cJjp53NF/twitch-recap-2025-2.png)](https://postimg.cc/2qQ91VyW)
 
 ### Viewer
-
-<img src="https://images-ext-1.discordapp.net/external/aQAh2aNu3Kn3htKuk2IUxPfCd_XOpCQyIESXNuEgHyc/https/i.imgur.com/jlqFYAl.png?format=webp&amp;quality=lossless&amp;width=493&amp;height=616" alt="Imagem"/>
+[![twitch-recap-2025.png](https://i.postimg.cc/43KMt3hy/twitch-recap-2025.png)](https://postimg.cc/WDvXcT8c)
 
 # Agradecimentos especiais aos que pediram jogos para a Playlist Gamer ao longo do ano!
 - [Fisher](https://twitch.tv/fisher_santiago)
