@@ -89,13 +89,13 @@ Além disso, desbloqueei `1718` conquistas ao longo de 2025, em todas as platafo
 
 # Tier Lists
 ## Progresso de jogos jogados
-[![tier-list-20251230-15-22-51.png](https://i.postimg.cc/hGJvNVNr/tier-list-20251230-12-41-09.png)](https://postimg.cc/zHnLnYmy)
+[![tier-list-20251230-15-22-51.png](https://i.postimg.cc/hGJvNVNr/tier-list-20251230-12-41-09.png)](https://postimg.cc/SXhmMYS2)
 
 ## Minhas recomendações
 [![tier-list-20251230-14-20-20.png](https://i.postimg.cc/TPh5Gz5B/tier-list-20251230-14-20-20.png)](https://postimg.cc/LqK830TV)
 
 ## Jogos que eu quero jogar
-[![tier-list-20251230-12-41-09.png](https://i.postimg.cc/vTKWwG3t/tier-list-20251230-15-22-51.png)](https://postimg.cc/SXhmMYS2)
+[![tier-list-20251230-12-41-09.png](https://i.postimg.cc/vTKWwG3t/tier-list-20251230-15-22-51.png)](https://postimg.cc/zHnLnYmy)
 
 # Outras coisas
 
