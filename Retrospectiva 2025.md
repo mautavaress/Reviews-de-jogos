@@ -13,7 +13,7 @@ Total de horas jogadas: `709h05min`
 - [**to a T**](https://www.rankone.global/mautavaress/played/255090) (Xbox Series)
 - [**Yakuza Kiwami 2**](https://www.rankone.global/mautavaress/played/55090) (Xbox Series)
 
-  # Jogos que eu mais joguei
+# Jogos que eu mais joguei
 
 1. [**Watch Dogs: Legion**](https://www.rankone.global/mautavaress/played/100413) (Xbox Series) - `51h25min`
 2. [**Train Sim World 5**](https://www.rankone.global/mautavaress/played/314215) (Xbox Series) - `49h37min`
