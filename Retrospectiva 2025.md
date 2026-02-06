@@ -124,7 +124,7 @@ Além disso, desbloqueei `1718` conquistas ao longo de 2025, em todas as platafo
 - [Badiiin](https://twitch.tv/badiiin)
 - [Branks](https://twitch.tv/branks_)
 - Domoru
-- [Fagner](https://twitch.tv/sol_fatguy)
+- [Fagner/Sol/Scrubble](https://twitch.tv/sol_fatguy)
 - [Maki](https://twitch.tv/ishidamaki)
 - [Orochi](https://twitch.tv/sonicorochi)
 - [Paulin](https://twitch.tv/paulodmmorais)
