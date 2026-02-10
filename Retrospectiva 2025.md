@@ -45,7 +45,7 @@ Juntas, as 5 franquias representam `25,5%` do tempo gasto em 2025.
 
 Juntas, as 5 plataformas representam `80,4%` do tempo gasto em 2025.
 
-# Conquistas mais raras que eu desbloqueei, segundo Exophase
+# Conquistas mais raras que eu desbloqueei, segundo Exophase[^2]
 
 1. [**FTF: Got That Dog in Me**](https://www.exophase.com/achievement/train-sim-world-5-free-starter-pack-xbox/344803-ftf-got-that-dog-in-me) em **Train Sim World 5 - Frankfurt - Fulda: Kinzigtalbahn** - `1,08%`
 2. [**EMK: Robot Rock**](https://www.exophase.com/achievement/train-sim-world-5-free-starter-pack-xbox/344808-emk-robot-rock) em **Train Sim World 5 - West Coast Main Line: London-Euston - Milton Keynes** - `1,20%`
@@ -53,7 +53,7 @@ Juntas, as 5 plataformas representam `80,4%` do tempo gasto em 2025.
 4. [**EXTRA: V - Pale Diamond Incursion**](https://www.exophase.com/achievement/vampire-survivors-game-preview-xbox/413500-extra-v-pale-diamond-incursion) em **Vampire Survivors: 1.14 Update** - `2,30%`
 5. [**EXTRA: XIII - Call of a Mad Moon**](https://www.exophase.com/achievement/vampire-survivors-game-preview-xbox/413508-extra-xiii-call-of-a-mad-moon)  em **Vampire Survivors: 1.14 Update** - `2,35%`
 
-O percentual se refere ao percentual de jogadores cadastrados no site que jogaram o jogo e desbloquearam a conquista. O percentual real pode ser ainda menor.
+[^2]:O percentual se refere ao percentual de jogadores cadastrados no site que jogaram o jogo e desbloquearam a conquista. O percentual real pode ser ainda menor.
 
 Além disso, desbloqueei `1718` conquistas ao longo de 2025, em todas as plataformas! Por fim, `17` jogos (incluindo atualizações e DLCs) foram platinados ou completados.
 
