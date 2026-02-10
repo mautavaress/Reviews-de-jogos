@@ -19,7 +19,9 @@ Total de horas jogadas: `709h05min`
 2. [**Train Sim World 5**](https://www.rankone.global/mautavaress/played/314215) (Xbox Series) - `49h37min`
 3. [**Sleeping Dogs: Definitive Edition**](https://www.rankone.global/mautavaress/played/20228) (Xbox One) - `42h34min`
 4. [**Grand Theft Auto: Vice City Stories**](https://www.rankone.global/mautavaress/played/3262) (PlayStation 2) - `40h34min`
-5. [**Vampire Survivors**](https://www.rankone.global/mautavaress/played/186725) (Xbox Series) - `32h15min` ||(referente apenas às atualizações 1.14 e "The Coop" e a DLC gratuita "Emerald Diorama")||
+5. [**Vampire Survivors**](https://www.rankone.global/mautavaress/played/186725) (Xbox Series) - `32h15min`[^1]
+
+[^1]: O tempo de jogo se refere apenas às atualizações 1.14 e "The Coop" e a DLC gratuita "Emerald Diorama".
 
 Juntos, os 5 jogos representam `30,5%` do tempo gasto em 2025.
 
