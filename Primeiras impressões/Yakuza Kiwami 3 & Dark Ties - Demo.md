@@ -8,3 +8,7 @@ A demo de "Yakuza Kiwami 3" leva em torno de 3 horas para usufruir de tudo o que
 Por outro lado, a demo de "Dark Ties" deixa a desejar. Apesar de ter uma história interessante, a única coisa que você pode fazer no seu tempo livre é jogar dardos ou mahjong. (ou mesmo partir pras brigas de rua mesmo). Nada de histórias secundárias ou de karaokê! Mas, ao menos, tem o tocador de áudio, onde você pode tocar as músicas do jogo, enquanto explora a cidade.
 
 Por fim, não há como salvar o progresso nas duas demos, o que impede que o progresso seja migrado para o jogo completo. Mas vale a pena experimentar!
+
+Assista à gameplay completa:
+
+[![Assista aqui](https://img.youtube.com/vi/E1g8EUe3ps4/0.jpg)](https://www.youtube.com/watch?v=E1g8EUe3ps4)
