@@ -1,4 +1,25 @@
-<img width="568" height="539" alt="image" src="https://github.com/user-attachments/assets/11af040f-c195-49e3-bf74-841e9dd8d9ba" />
+**Plataforma jogada**: Xbox Series (nativo)
+
+**Tempo de jogo**: `4h31min`
+
+**Status**: Todas as conquistas desbloqueadas
+
+| Critério  | Avaliação (0,5 a 10,0)  |
+| ------------ | ------------ |
+|  Gameplay | `9,0` |
+|  História | `6,0` |
+|  Visuais | `9,0` |
+|  Trilha sonora e efeitos de som | `10,0` |
+|  **Geral** | `8,0` |
+
+| Pontos positivos  | Pontos negativos  |
+| ------------ | ------------ |
+| Fácil de "zerar" e "platinar" (se você tiver um guia, claro)  | Alta complexidade dos "puzzles"  |
+|  Ajuda no raciocínio | Apresenta alguns problemas gráficos  |
+|   | Localização em PT-BR não muito boa e que pode confundir jogadores  |
+|   | O tempo de jogo não compensa o preço que é cobrado  |
+
+
 
 # Um puzzle pra quem curte plantas
 
@@ -67,5 +88,6 @@ E, como eu disse, leva em torno de 4 horas pra platinar, mas devido à complexid
 # Conclusão
 
 É um jogo relaxante, mas com alguns problemas visuais, embora não seja ruim. A pior parte do jogo é a localização que deixou a desejar e que precisa ser corrigida com urgência. Além disso, o preço que é cobrado (R$ 92,45) é caro demais para o tempo necessário para zerar, que é artificialmente maior devido à complexidade dos “puzzles” que requerem bastante raciocínio.
+
 
 
