@@ -1,4 +1,13 @@
-<img width="569" height="362" alt="image" src="https://github.com/user-attachments/assets/f7300369-94ba-44f8-b07c-c117b6c60f3a" />
+**Plataforma jogada**: Xbox Series
+
+**Tempo total**: `3h07min`
+
+**Status**: Demo concluída com algumas missões secundárias
+
+| Pontos positivos  | Pontos negativos  |
+| ------------ | ------------ |
+| Gráficos atualizados  |  Ausência de histórias secundárias (na demo de Dark Ties) |
+| Novas mecânicas de exploração e combate  |  Ausência de sistemas de upgrade nas duas demos |
 
 > [!WARNING]
 >Esta análise é das demos dos dois jogos! O jogo completo ainda será lançado!
