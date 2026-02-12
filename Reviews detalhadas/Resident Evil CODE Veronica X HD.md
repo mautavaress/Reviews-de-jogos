@@ -32,6 +32,8 @@ Diferentemente dos primeiros jogos, os ambientes de Code: Veronica não são pr�
 
 Cada versão do jogo possui um set próprio e único de conquistas. Mas, especificamente, [a versão de Xbox 360](https://www.trueachievements.com/game/Resident-Evil-Code-Veronica/achievements) (e, consequentemente, a versão de PS3) possui 12 conquistas, sendo que 8 delas você desbloqueia automaticamente ao progredir no jogo até o fim e 2 delas precisam de umas ações a mais para desbloquear, como dar o medicamento ao Rodrigo e receber um “encorajamento” da Claire (isto quando você joga como Steve). Por fim, as duas últimas requerem praticamente uma “speedrun” para desbloquear. Eu até pensei em fazer 1000G no início, mas era impossível pra mim, pois, quando me dei conta, já usei muitos saves e já havia extrapolado o limite de tempo pro rank A (na verdade, terminei o jogo no rank E, com 48 saves, sem usar spray (graças ao glitch) e com quase 14 horas de jogo).
 
+<img width="1920" height="1080" alt="RESIDENT EVIL CODE_ Veronica X-2024_11_10-23-18-50" src="https://github.com/user-attachments/assets/38b65758-8432-4946-83a9-b9e6acb5c9dd" />
+
 <img src="https://img.trueachievements.com/game/4034/978936?v=10" alt="Resident Evil Code: Veronica X Achievements | TrueAchievements"/>
 
 # Conclusão
