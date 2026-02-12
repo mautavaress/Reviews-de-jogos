@@ -1,4 +1,21 @@
-<img width="569" height="428" alt="image" src="https://github.com/user-attachments/assets/9f4044eb-ebd0-4048-9fb3-305429b5ce4f" />
+**Plataforma jogada**: PlayStation 2 (via XBSX2)
+
+**Tempo de jogo**: `6h07min` (`3h08min` in-game)
+
+**Status**: História concluída, com algumas missões secundárias
+
+| Critério  | Avaliação (0,5 a 10,0)  |
+| ------------ | ------------ |
+|  Gameplay | `8,0` |
+|  História | `8,0` |
+|  Visuais | `8,0` |
+|  Trilha sonora e efeitos de som | `9,5` |
+|  **Geral** | `8,4` |
+
+| Pontos positivos  | Pontos negativos  |
+| ------------ | ------------ |
+| Boa narrativa  | "Farme" de pontos excessivo  |
+| Excelente trilha sonora  | Pode causar cinetose em alguns jogadores  |
 
 "ACE COMBAT 04" foi praticamente o primeiro jogo da série que joguei. Isso lá em 2004. Ainda assim, uma passagem de 22 anos não envelheceu tanto o jogo. Os controles são bem responsivos, embora os gráficos não sejam tão detalhados.
 
