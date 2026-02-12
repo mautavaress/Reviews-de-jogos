@@ -1,4 +1,23 @@
-<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/3e0abbb4-3a1c-457d-b057-af056a11489d" />
+**Plataforma jogada**: Xbox One (via Xbox Series)
+
+**Tempo de jogo**: `20h10min` (`16h47min` in-game)
+
+**Status**: História concluída, com algumas missões secundárias
+
+| Critério  | Avaliação (0,5 a 10,0)  |
+| ------------ | ------------ |
+|  Gameplay | `9,0` |
+|  História | `9,0` |
+|  Visuais | `7,0` |
+|  Trilha sonora e efeitos de som | `9,0` |
+|  **Geral** | `8,1` |
+
+| Pontos positivos  | Pontos negativos  |
+| ------------ | ------------ |
+| Possui mecânicas diferenciadas, como sistema de recarga  | Inimigos repetitivos  |
+| Possui muitas referências  | Localização em PT-BR questionável  |
+| Personagens com narrativas únicas  | Alguns textos requerem acesso fora do jogo  |
+|   | Lentidão na renderização de alguns objetos  |
 
 # Um horror de fã pra fã
 
