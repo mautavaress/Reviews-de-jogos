@@ -1,4 +1,22 @@
-<img width="570" height="491" alt="image" src="https://github.com/user-attachments/assets/f95cf206-c52d-406b-8a73-97b6410f8b37" />
+**Plataforma jogada**: Xbox Series (nativo)
+
+**Tempo de jogo**: `5h56min`
+
+**Status**: Todas as conquistas desbloqueadas
+
+| Critério  | Avaliação (0,5 a 10,0)  |
+| ------------ | ------------ |
+|  Gameplay | `8,0` |
+|  História | `10,0` |
+|  Visuais | `10,0` |
+|  Trilha sonora e efeitos de som | `10,0` |
+|  **Geral** | `8,5` |
+
+| Pontos positivos  | Pontos negativos  |
+| ------------ | ------------ |
+| Visual artístico  | Visual bastante escuroMuita linearidade  |
+|  Cheio de segredos | Pouca liberdade criativa para fazer páginas |
+|  Fator "emoção" | Conquistas requerem "segredos dos games"  |
 
 # Uma história em forma de aquarela
 
