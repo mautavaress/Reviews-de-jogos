@@ -1,4 +1,22 @@
-<img width="570" height="440" alt="image" src="https://github.com/user-attachments/assets/63048e8e-9711-46f2-a5b4-fac43e4dcb78" />
+**Plataforma jogada**: Xbox 360 (via retrocompatibilidade com Xbox Series)
+
+**Tempo de jogo**: `13h56min`
+
+**Status**: História concluída, com algumas missões secundárias
+
+| Critério  | Avaliação (0,5 a 10,0)  |
+| ------------ | ------------ |
+|  Gameplay | `6,0` |
+|  História | `10,0` |
+|  Visuais | `8,0` |
+|  Trilha sonora e efeitos de som | `10,0` |
+|  **Geral** | `7,0` |
+
+| Pontos positivos  | Pontos negativos  |
+| ------------ | ------------ |
+| Exploração não-linear  | Câmera ruim  |
+|  Gráficos inovadores (à época) | Controles desatualizados (para uma versão em HD)  |
+|  Possibilidade de interagir com itens |   |
 
 # Superando meus medos
 
