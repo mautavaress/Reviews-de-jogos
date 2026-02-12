@@ -1,4 +1,4 @@
-**Plataforma jogada**: Xbox Series
+**Plataforma jogada**: PlayStation 2 (via XBSX2)
 
 **Tempo de jogo**: `9h59min`
 
