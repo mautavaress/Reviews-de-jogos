@@ -26,4 +26,4 @@ Assista à gameplay:
 [![Assista aqui](https://img.youtube.com/vi/JSlDiFvpUn4/0.jpg)](https://www.youtube.com/watch?v=JSlDiFvpUn4&t=8859s)
 
 > [!TIP]
-> Você também pode dar uma olhada na review da versão de GBA, com vídeo de gameplay, através deste [link](https://github.com/mautavaress/Reviews-de-jogos/blob/938160055fc6a6280508601fc3e55e62ff80706a/Reviews/WarioWare%2C%20Inc.%3A%20Mega%20Microgame%24!.md).
+> Você também pode dar uma olhada na review da versão de GBA, com vídeo de gameplay, através deste [link](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/WarioWare%2C%20Inc.%3A%20Mega%20Microgame%24!.md).
