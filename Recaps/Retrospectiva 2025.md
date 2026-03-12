@@ -30,10 +30,10 @@ Juntos, os 5 jogos representam `30,5%` do tempo gasto em 2025.
 1. **Watch Dogs** - `51h25min` - 1 jogo
 2. **Train Sim World** - `49h37min` - 1 jogo + 3 DLCs
 3. **Grand Theft Auto** - `41h13min` - 2 jogos
-4. **Resident Evil/BIOHAZARD** - `20h39min` - 4 jogos
-5. **Kirby** - `18h02min` - 2 jogos
+4. **Resident Evil / BIOHAZARD** - `20h39min` - 4 jogos
+5. **Daymare** - `20h10min` - 1 jogo
 
-Juntas, as 5 franquias representam `25,5%` do tempo gasto em 2025.
+Juntas, as 5 franquias representam `25,8%` do tempo gasto em 2025.
 
 # Plataformas que eu mais joguei
 
