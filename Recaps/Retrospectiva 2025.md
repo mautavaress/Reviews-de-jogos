@@ -132,4 +132,4 @@ Além disso, desbloqueei `1718` conquistas ao longo de 2025, em todas as platafo
 - [Paulin](https://twitch.tv/paulodmmorais)
 - [Rubão](https://twitch.tv/rubaod_xplay)
 - [Thi](https://twitch.tv/galaxiadathi)
-- [Zigg](https://twitch.tv/ziggudin)
+- [Zigg](https://twitch.tv/xxzig)
