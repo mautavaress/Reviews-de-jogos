@@ -6,7 +6,7 @@
 
 | Pontos positivos  | Pontos negativos  |
 | ------------ | ------------ |
-|  Apresenta novas mecânicas |  Possui luzes piscantes de jumpscares |
+|  Apresenta novas mecânicas |  Possui luzes piscantes e jumpscares |
 | Gráficos refeitos | Não possui localização em PT-BR|
 |Dá para migrar o progresso pro jogo completo|
 
