@@ -19,7 +19,7 @@
 |   | Side quests repetitivas  |
 
 
-O jogo possui uma narrativa que é, ao mesmno tempo, boa, bizarra, e muito marcante. Fiquei muito impactado pela história. A gameplay também é boa, mas os controles são bastante complexos.
+O jogo possui uma narrativa que é, ao mesmo tempo, boa, bizarra, e muito marcante. Fiquei muito impactado pela história. A gameplay também é boa, mas os controles são bastante complexos.
 
 Você vai passar mais tempo contruindo coisas e fazendo entregas do que viver a história em si. Isto faz parte, pois, assim, você terá recursos para enfrentar inimigos mais perigosos e usar meios mais rápidos para se deslocar de um ponto a outro. Você provavelmente vai se viciar!
 
