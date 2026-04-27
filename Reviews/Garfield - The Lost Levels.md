@@ -8,9 +8,6 @@
 | ------------ | ------------ |
 |  Experiência boa pra quem curtiu o "Caught in the Act" | Controles truncados  |
 
-> [!WARNING]
-> Esta análise é apenas primeiras impressões. Pode mudar caso eu jogue por mais tempo!
-
 O jogo é basicamente uma extensão do "Garfield: Caught in the Act", com fases extras e gameplay curta. A jogabilidade é tão cretina e injusta quanto o original, mas é rápido de zerar.
 
 Assista à gameplay:
