@@ -10,7 +10,7 @@
 | Novas mecânicas de exploração e combate  |  Ausência de sistemas de upgrade nas duas demos |
 
 > [!WARNING]
->Esta análise é das demos dos dois jogos! O jogo completo ainda será lançado!
+>Esta análise é das demos dos dois jogos! A experiência do jogo completo pode variar!
 
 A demo de "Yakuza Kiwami 3" leva em torno de 3 horas para usufruir de tudo o que a demo oferece, desde as 3 histórias secundárias inclusas até o karaokê (sim, temos "Baka Mitai" nessa demo). Além disso, o combate é bem melhor do que na versão original, com dois estilos de luta, em vez de apenas o estilo do "Dragão de Dojima". A parte da exploração não deixa a desejar, já que você pode caçar borboletas e fazer amigos.
 
