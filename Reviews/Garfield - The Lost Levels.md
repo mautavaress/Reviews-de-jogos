@@ -3,6 +3,9 @@
 **Tempo total**: `40min`
 
 **Status**: História concluída, sem sidequests
+| Critério  | Avaliação (0,5 a 10,0)|
+| ------------ | ------------ |
+|  **Geral** | `6,0` |
 
 | Pontos positivos  | Pontos negativos  |
 | ------------ | ------------ |
