@@ -105,7 +105,7 @@ Além disso, desbloqueei `1718` conquistas ao longo de 2025, em todas as platafo
 <img src="https://images-ext-1.discordapp.net/external/iiwXdzIas78ETEBGl0p0NH9Es0smETrXRfnrtdGZMv4/https/imager.trueachievements.com/annualhighlights/978936/2025?format=webp&amp;width=980&amp;height=512" alt="MauTavaresS&#39; #MyYearOnXbox"/>
 
 ## Recap do RetroAchievements
-<img src="https://media.discordapp.net/attachments/1450131550761910282/1456302821329731616/image0.jpg?ex=698603b1&amp;is=6984b231&amp;hm=98f60d0a592b2c093a3e3d123717be3b58dda071df1712ce372324b5f3cc8496&amp;=&amp;format=webp&amp;width=344&amp;height=616" alt="Imagem"/>
+<img src="https://cdn.discordapp.com/attachments/1450131550761910282/1456302821329731616/image0.jpg?ex=69f2c771&is=69f175f1&hm=0d9e866430c5ed9f0a8ef5b4a8aede29f6463b452f03da50c1956574166ad076" alt="Imagem"/>
 
 ## Twitch recap
 ### Streamer
