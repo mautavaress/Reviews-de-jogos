@@ -11,7 +11,7 @@
 > [!WARNING]
 > Esta análise é apenas primeiras impressões. Pode mudar caso eu jogue por mais tempo!
 
-O jogo oficial de Formula 1 até que oferece uma experiência de corrida boa, mas que possaui uma taxa de quadrops baixa - isto porque o jogo foi otimizado para consoles da região PAL (50 Hz), uma vez que ele só foi lançado na Europa. Fora isso, a jogabilidade é boa.
+O jogo oficial de Formula 1 até que oferece uma experiência de corrida boa, mas que possaui uma taxa de quadros baixa - isto porque o jogo foi otimizado para consoles da região PAL (50 Hz), uma vez que ele só foi lançado na Europa. Fora isso, a jogabilidade é boa.
 
 Assista à gameplay:
 
