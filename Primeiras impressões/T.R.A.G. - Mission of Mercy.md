@@ -6,7 +6,7 @@
 
 | Pontos positivos  | Pontos negativos  |
 | ------------ | ------------ |
-| Possui sistema de mira automática  | Câmera ao estilo dos RE antigos|
+| Possui sistema de mira automática  | Câmera ao estilo dos RE antigos... e controles-tanque|
 
 > [!WARNING]
 > Esta análise é apenas primeiras impressões. Pode mudar caso eu jogue por mais tempo!
