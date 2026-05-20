@@ -6,6 +6,7 @@
 
 | Pontos positivos  | Pontos negativos  |
 | ------------ | ------------ |
+|Experiência realista (à época) ||
 | Jogabilidade boa  |  |
 
 > [!WARNING]
