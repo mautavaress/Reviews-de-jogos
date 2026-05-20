@@ -6,7 +6,7 @@
 
 | Pontos positivos  | Pontos negativos  |
 | ------------ | ------------ |
-| Jogabilidade boas  | Gráficos ruins |
+| Boa dirigibilidade  | Gráficos ruins |
 
 > [!WARNING]
 > Esta análise é apenas primeiras impressões. Pode mudar caso eu jogue por mais tempo!
