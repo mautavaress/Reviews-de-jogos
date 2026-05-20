@@ -15,4 +15,4 @@ O jogo lembra um Turbo Out Run, com Mode7 e pistas parecidas com Super Mario Kar
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/frLhT1VlORc/0.jpg)](https://youtu.be/frLhT1VlORc)
+[![Assista aqui](https://img.youtube.com/vi/frLhT1VlORc/0.jpg)](https://www.youtube.com/watch?v=frLhT1VlORc&t=6037s)

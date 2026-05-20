@@ -15,4 +15,4 @@ Pense num jogo de corrida caótico. Pois é. Este jogo é tão caótico que voc�
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/N6n0zFibibk/0.jpg)](https://youtu.be/N6n0zFibibk)
+[![Assista aqui](https://img.youtube.com/vi/N6n0zFibibk/0.jpg)](https://www.youtube.com/watch?v=N6n0zFibibk&t=4387s)

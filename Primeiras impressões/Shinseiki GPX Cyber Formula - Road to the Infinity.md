@@ -15,4 +15,4 @@ O jogo lembra bastante F-Zero, apesar de ser baseado em anime. A jogabilidade é
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/frLhT1VlORc/0.jpg)](https://youtu.be/frLhT1VlORc)
+[![Assista aqui](https://img.youtube.com/vi/frLhT1VlORc/0.jpg)](https://www.youtube.com/watch?v=frLhT1VlORc&t=7954s)

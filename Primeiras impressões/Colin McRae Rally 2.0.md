@@ -15,4 +15,4 @@ O jogo não é para qualquer um, é pra quem manja mesmo de rally, assim como os
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/T9Mn8WPEOrk/0.jpg)](https://youtu.be/T9Mn8WPEOrk)
+[![Assista aqui](https://img.youtube.com/vi/T9Mn8WPEOrk/0.jpg)](https://www.youtube.com/watch?v=T9Mn8WPEOrk&t=3796s)

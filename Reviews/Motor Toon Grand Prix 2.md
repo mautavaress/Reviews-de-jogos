@@ -20,4 +20,4 @@ O jogo parece genérico, mas até que diverte. Cada carro possui seu nível de d
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/N6n0zFibibk/0.jpg)](https://youtu.be/N6n0zFibibk)
+[![Assista aqui](https://img.youtube.com/vi/N6n0zFibibk/0.jpg)](https://www.youtube.com/watch?v=N6n0zFibibk&t=8412s)

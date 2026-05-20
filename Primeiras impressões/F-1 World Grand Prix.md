@@ -15,4 +15,4 @@ O jogo roda fluidamente e os controles são bons, apesar de que a curva de apren
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/frLhT1VlORc/0.jpg)](https://youtu.be/frLhT1VlORc)
+[![Assista aqui](https://img.youtube.com/vi/frLhT1VlORc/0.jpg)](https://www.youtube.com/watch?v=frLhT1VlORc&t=4231s)

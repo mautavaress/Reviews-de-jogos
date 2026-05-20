@@ -16,4 +16,4 @@ O jogo possui tudo de horrível num jogo de corrida: câmera ruim, que não acom
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/4UdWorw2qDY/0.jpg)](https://youtu.be/4UdWorw2qDY)
+[![Assista aqui](https://img.youtube.com/vi/4UdWorw2qDY/0.jpg)](https://www.youtube.com/watch?v=4UdWorw2qDY&t=229s)

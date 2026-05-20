@@ -15,4 +15,4 @@ Achei que esse jogo tivesse tudo para ser ruim, mas não é tão ruim. É basica
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/frLhT1VlORc/0.jpg)](https://youtu.be/frLhT1VlORc)
+[![Assista aqui](https://img.youtube.com/vi/frLhT1VlORc/0.jpg)](https://www.youtube.com/watch?v=frLhT1VlORc&t=10663s)
