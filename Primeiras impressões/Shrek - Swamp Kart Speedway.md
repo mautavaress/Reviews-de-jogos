@@ -2,12 +2,12 @@
 
 **Tempo total**: `52min`
 
-**Status**: Incompleto
+**Status**: Incompleto, mas com algumas side quests concluídas
 
 | Pontos positivos  | Pontos negativos  |
 | ------------ | ------------ |
 | Jogabilidade fluida  | Dirigibilidade ruim |
-||Gráficos e draw distence ruins|
+||Gráficos e draw distance ruins|
 
 > [!WARNING]
 > Esta análise é apenas primeiras impressões. Pode mudar caso eu jogue por mais tempo!
