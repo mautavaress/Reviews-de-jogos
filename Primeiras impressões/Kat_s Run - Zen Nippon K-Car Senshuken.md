@@ -2,7 +2,7 @@
 
 **Tempo total**: `34min`
 
-**Status**: Incompleto
+**Status**: Incompleto, mas com algumas side quests concluídas
 
 | Pontos positivos  | Pontos negativos  |
 | ------------ | ------------ |
