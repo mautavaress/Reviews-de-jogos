@@ -37,7 +37,7 @@ O que eu achei desse jogo, além das minhas recomendações caso você queira jo
 > [!NOTE]
 > Por recomendação do Macena, escolhi jogar como um berserker - que está mais para um felino -, no modo "Adventurer", que é o mais fácil.
 
-![XBSX2_2026_03_11_19_22_15.png](https://i.postimg.cc/Fz2q3GzR/XBSX2_2026_03_11_19_22_15.png)
+[![XBSX2-2026-03-11-19-22-15.png](https://i.postimg.cc/Fz2q3GzR/XBSX2-2026-03-11-19-22-15.png)](https://postimg.cc/BPBMGTx9)
 
 Achei estranho que esse jogo começa me colocando diretamente num "hub", sem cutscenes ou algo do tipo, mas sou delegado a uma missão. É só selecionar um plano (no sentido de "mundo" ou "dimensão") e sair pra guerrear.
 
@@ -70,7 +70,7 @@ Por falar em defesa, eu tive que tomar cuidado para não abrir a defesa na hora 
 
 E não adiantava eu tentar ser furtivo, pois essa mecânica não funciona em boa parte do jogo. Assim que os inimigos aparecem na tela, eles já sentem a minha presença e começam a atacar. Há exceções, em situações onde eu realmente não poderia ser visto pelos inimigos. Ainda assim, não existe abate furtivo neste jogo.
 
-[![XBSX2-2026-05-21-19-11-36.png](https://i.postimg.cc/3rXgsC5J/XBSX2-2026-05-21-19-11-36.png)](https://postimg.cc/0rNMmSyL)
+<img width="1280" height="720" alt="XBSX2-2026-05-21-19-11-36" src="https://github.com/user-attachments/assets/73641203-2081-409f-b309-9bf8d54e384e" />
 
 Já os chefes requerem uma estratégia para vencer, mas eles normalmente ficam em posição vulnerável (por um curtíssimo período de tempo) depois de atacar e depois voltam ao ataque. Esse momento é o mais apropriado para atacar. Além disso, alguns chefes mudam seus padrões de ataque e movimento após terem a "barra de vida" reduzida pela metade. 
 
