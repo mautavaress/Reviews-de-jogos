@@ -9,10 +9,7 @@
 || Modificalçao mal-feita|
 ||Não dá pra ser finalizado|
 
-> [!WARNING]
-> Esta análise é apenas primeiras impressões. Pode mudar caso eu jogue por mais tempo!
-
-O bootleg é praticamente uma modificação mal-feita de "Disney's Chip'n Dale Rescue Rangers 2", mas trocando os sprites dos personagens jogáveis. Além de não ter sido traduzido, é simplesmente inzerável, pois ele crasha quando você vence o primeiro chefe.
+O bootleg é praticamente uma modificação mal-feita de "Disney's Chip'n Dale Rescue Rangers 2", mas trocando os sprites dos personagens jogáveis. Além de não ter sido traduzido, é simplesmente inzerável, pois ele crasha quando você vence o primeiro chefe. Sério, não jogue esta versão. Jogue o original!
 
 Assista à gameplay:
 
