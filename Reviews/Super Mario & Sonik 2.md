@@ -4,6 +4,10 @@
 
 **Status**: Incompleto
 
+| Critério  | Avaliação (0,5 a 10,0)|
+| ------------ | ------------ |
+|  **Geral** | `2,0` |
+
 | Pontos positivos  | Pontos negativos  |
 | ------------ | ------------ |
 || Modificalçao mal-feita|
