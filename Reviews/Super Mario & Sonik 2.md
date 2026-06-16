@@ -6,7 +6,7 @@
 
 | Critério  | Avaliação (0,5 a 10,0)|
 | ------------ | ------------ |
-|  **Geral** | `2,0` |
+|  **Geral** | `1,5` |
 
 | Pontos positivos  | Pontos negativos  |
 | ------------ | ------------ |
