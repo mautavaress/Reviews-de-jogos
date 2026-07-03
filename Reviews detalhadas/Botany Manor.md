@@ -1,4 +1,5 @@
-#Botany Manor
+# Botany Manor
+
 **Plataforma jogada**: Xbox Series (nativo)
 
 **Tempo de jogo**: `4h31min`
