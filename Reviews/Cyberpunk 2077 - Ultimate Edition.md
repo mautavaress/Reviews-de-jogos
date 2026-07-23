@@ -2,7 +2,7 @@
 
 **Tempo total**: `121h51min` (`31h31min` - Expansão "Phantom Liberty")
 
-**Status**: História concluída, com algumas side quests
+**Status**: História concluída, com algumas side quests (5 finais alcançados)
 
 | Critério  | Avaliação (0,5 a 10,0)|
 | ------------ | ------------ |
