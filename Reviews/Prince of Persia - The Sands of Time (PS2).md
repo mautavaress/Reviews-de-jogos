@@ -17,7 +17,7 @@
 |Sistema de combate razoável| Cutscenes sem legendas|
 ||Exploração confusa, embora linear|
 
-O jogo possui tutorial acessível, que ensina o básico do parkour e do combate. Depois disso, é quebrar a cabeça para saber como se avança na fase sem um guia! Além disso, só é possível salvar o jogo em locais específicos, que parecem estar bem afastados entre si. Além disso, o sistema de combate é razoável, apesar de os inimigos agirem de forma bem agressiva. Estratégia pra vencê-los é crucial para poder progredir. Porfim, a história até empolga, mas a ausência de legendas nas cutscenes a torna mais difícil de compreender.
+O jogo possui tutorial acessível, que ensina o básico do parkour e do combate. Depois disso, é quebrar a cabeça para saber como se avança na fase sem um guia! Além disso, só é possível salvar o jogo em locais específicos, que parecem estar bem afastados entre si. Além disso, o sistema de combate é razoável, apesar de os inimigos agirem de forma bem agressiva. Estratégia pra vencê-los é crucial para poder progredir. Por fim, a história até empolga, mas a ausência de legendas nas cutscenes a torna mais difícil de compreender.
 
 Assista à gameplay:
 
