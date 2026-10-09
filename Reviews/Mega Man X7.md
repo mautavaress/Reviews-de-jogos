@@ -10,7 +10,7 @@
 |  História |`7,0`  |
 |  Visuais | `7,0` |
 |  Trilha sonora e efeitos de som | `6,0` |
-|  **Geral** | `5.8` |
+|  **Geral** | `5,8` |
 
 | Pontos positivos  | Pontos negativos  |
 | ------------ | ------------ |
