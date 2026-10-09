@@ -6,11 +6,11 @@
 
 | Critério  | Avaliação (0,5 a 10,0)|
 | ------------ | ------------ |
-|  Gameplay | `5,0` |
+|  Gameplay | `3,0` |
 |  História |`7,0`  |
 |  Visuais | `7,0` |
-|  Trilha sonora e efeitos de som | `7,0` |
-|  **Geral** | `6,5` |
+|  Trilha sonora e efeitos de som | `6,0` |
+|  **Geral** | `5.8` |
 
 | Pontos positivos  | Pontos negativos  |
 | ------------ | ------------ |
