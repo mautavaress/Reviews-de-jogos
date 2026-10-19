@@ -17,7 +17,7 @@
 |Boa narrativa|Exploração quase linear|
 ||Level design pouco acessível|
 
-Ele aparenta ser acessível, mas a exploração é bem linear (a tal ponto de que o jogo tenta de tudo para te impedir de explorar o mapa e coletar todos os itens), com level design voltado para quem já tem experiência prévia em jogos da série Você até consegue explorar o mapa, mas os caminhos são tão escondidos que você precisará de um mapa-guia detalhado para descobrir todas as salas. Além disso, os chefes são bem ágeis e resistentes, exigindo uma estratégia para vencê-los.
+Ele aparenta ser acessível, mas a exploração é bem linear (a tal ponto de que o jogo tenta de tudo para te impedir de explorar o mapa e coletar todos os itens), com level design voltado para quem já tem experiência prévia em jogos da série. Você até consegue explorar o mapa, mas os caminhos são tão escondidos que você precisará de um mapa-guia detalhado para descobrir todas as salas. Além disso, os chefes são bem ágeis e resistentes, exigindo uma estratégia para vencê-los.
 
 Assista à gameplay da primeira hora:
 
