@@ -1,4 +1,4 @@
-**Plataforma jogada**: DS (via RetroArch)
+**Plataforma jogada**: Game Boy Color (via RetroArch)
 
 **Tempo total**: `29min`
 
@@ -16,4 +16,4 @@ O jogo possui tudo de horrível num jogo de corrida: câmera ruim, que não acom
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/4UdWorw2qDY/0.jpg)](https://www.youtube.com/watch?v=4UdWorw2qDY&t=229s)
+[![Assista aqui](https://img.youtube.com/vi/9cNo7aZyMkg/0.jpg)](https://www.youtube.com/watch?v=9cNo7aZyMkg&t=229s&pp=0gcJCWMAwfN6Pr3D)
