@@ -16,4 +16,4 @@ Pra começar, é necessário manual para poder saber como se joga, pois para pon
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/xElPtQA8NjQ/0.jpg)](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=14263s)
+[![Assista aqui](https://img.youtube.com/vi/SIMGjPbG4DI/0.jpg)](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=18859s)
