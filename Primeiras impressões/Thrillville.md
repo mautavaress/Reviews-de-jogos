@@ -15,4 +15,4 @@ Pense num Rollercoaster Tycoon, só que mais imersivo. Esse é o "Thrillville", 
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/xElPtQA8NjQ/0.jpg)](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=3614s)
+[![Assista aqui](https://img.youtube.com/vi/SIMGjPbG4DI/0.jpg)](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=8192s)
