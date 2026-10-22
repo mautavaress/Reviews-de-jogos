@@ -16,4 +16,4 @@ O jogo me faz lembrar de Bully, em questões de jogabilidade e exploração, al�
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/xElPtQA8NjQ/0.jpg)](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=5975s)
+[![Assista aqui](https://img.youtube.com/vi/SIMGjPbG4DI/0.jpg)](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=10606s)
