@@ -16,4 +16,4 @@ O jogo parece inovador. Jogo de corrida com mecânicas de plataforma ou vice-ver
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/T9Mn8WPEOrk/0.jpg)](https://youtu.be/T9Mn8WPEOrk)
+[![Assista aqui](https://img.youtube.com/vi/9cNo7aZyMkg/0.jpg)](https://www.youtube.com/watch?v=9cNo7aZyMkg&t=1999s)
