@@ -16,4 +16,4 @@ Apesar de o jogo parecer fluido, os controles, gráficos e draw distance são ho
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/T9Mn8WPEOrk/0.jpg)](https://www.youtube.com/watch?v=T9Mn8WPEOrk&t=9005s)
+[![Assista aqui](https://img.youtube.com/vi/9cNo7aZyMkg/0.jpg)](https://www.youtube.com/watch?v=9cNo7aZyMkg&t=11083s)
