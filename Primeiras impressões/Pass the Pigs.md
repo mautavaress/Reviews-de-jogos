@@ -15,4 +15,4 @@
 
 Assista à gameplay:
 
-[![Assista aqui](https://img.youtube.com/vi/xElPtQA8NjQ/0.jpg)](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=339s)
+[![Assista aqui](https://img.youtube.com/vi/SIMGjPbG4DI/0.jpg)](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=4965s&pp=0gcJCWMAwfN6Pr3D)
