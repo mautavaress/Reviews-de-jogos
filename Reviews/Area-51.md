@@ -21,4 +21,4 @@ Neste jogo de tiro em primeira pessoa, você quase não tem tempo para descansar
 
 Assista à gameplay da primeira hora:
 
-[![Assista aqui](https://img.youtube.com/vi/xElPtQA8NjQ/0.jpg)](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=10070s)
+[![Assista aqui](https://img.youtube.com/vi/SIMGjPbG4DI/0.jpg)](https://www.youtube.com/watch?v=SIMGjPbG4DI&list=PLvqssAXHVG69Y8WZ0XZDP-6HS0Ew6FA5P&index=2&t=14690s)
