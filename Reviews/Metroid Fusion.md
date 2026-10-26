@@ -21,4 +21,4 @@ Ele aparenta ser acessível, mas a exploração é bem linear (a tal ponto de qu
 
 Assista à gameplay da primeira hora:
 
-[![Assista aqui](https://img.youtube.com/vi/yjiZJi5_QGE&t/0.jpg)](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=2967s&pp=0gcJCWMAwfN6Pr3D)
+[![Assista aqui](https://img.youtube.com/vi/yjiZJi5_QGE/0.jpg)](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=2967s&pp=0gcJCWMAwfN6Pr3D)
